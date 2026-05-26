@@ -1,4 +1,3 @@
-<img width="826" height="397" alt="image" src="https://github.com/user-attachments/assets/21e5dcc2-a147-49de-92b0-45c04cfe7b8e" />## Hi there 👋
 👋 Hi, I'm Vishal Ramane
 📊 Aspiring Data Analyst | Power BI Developer | SQL & Python Enthusiast
 
