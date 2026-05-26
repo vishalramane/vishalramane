@@ -1,4 +1,5 @@
-👋 Hi, I'm Vishal Ramane
+# 👋 Hi, I'm Vishal Ramane
+
 📊 Aspiring Data Analyst | Power BI Developer | SQL & Python Enthusiast
 
 Passionate about transforming raw data into meaningful insights through dashboards, analytics, and visualization.
